@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Coursera_logo.svg" alt="Coursera Logo" width="200">
+  <img src="https://github.com/JoshuaThadi/DataScienceEcosystem/blob/main/coursera.png" width="200">
 </p>
 
 ---
