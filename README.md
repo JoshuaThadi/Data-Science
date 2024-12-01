@@ -22,13 +22,6 @@ Welcome to the Data Science assignment repository! This assignment, developed as
 - Perform unit conversions (e.g., converting minutes to hours)
 - Practice using Markdown and Code cells in Jupyter Notebook
 
-## Table of Contents
-
-- **Introduction:** An overview of Data Science
-- **Exercise 3:** Introduction cell
-- **Exercise 10:** Objective cell creation
-- **Code Exercises:** Practical examples of arithmetic expressions, conversions, and tool usage
-
 ## Getting Started
 
 1. Clone this repository:
