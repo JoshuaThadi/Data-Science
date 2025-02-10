@@ -22,8 +22,3 @@ Welcome to the Data Science assignment repository! This assignment, developed as
 - Perform unit conversions (e.g., converting minutes to hours)
 - Practice using Markdown and Code cells in Jupyter Notebook
 
-## Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/joshuathadi/DataScienceEcosystem.git
