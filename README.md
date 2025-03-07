@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/JoshuaThadi/DataScienceEcosystem/blob/main/coursera.png" width="200">
+  <img src="https://github.com/JoshuaThadi/IBM-Data-Science/blob/main/coursera.png" width="200">
 </p>
 
 ---
