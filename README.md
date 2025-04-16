@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.coursera.org/">
+  <a href="https://www.coursera.org/professional-certificates/ibm-data-science">
     <img src="https://img.shields.io/badge/Coursera-Join%20Coursera%20Course-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera">
   </a>
 </p>
