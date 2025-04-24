@@ -56,4 +56,8 @@ Welcome to the Data Science assignment repository! This assignment, developed as
     <img src="https://img.shields.io/badge/ML_Frameworks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning Frameworks"></a>
 
 
+---
+
+⚠️ This repository is uniquely designed by <strong>@JoshuaThadi</strong>
+
 </div>
