@@ -36,7 +36,7 @@ Welcome to the Data Science assignment repository! This assignment, developed as
   </div>
   <h4><p>Data Science is an interdisciplinary field that uses methods, algorithms, and systems to extract knowledge and insights from data. 
     It combines aspects of <strong>statistics</strong>, <strong>computer science</strong>, and <strong>domain expertise</strong>.</p></h4>
-    
+    <p>Data science is the study of large quantities of data, which can reveal insights that help organizations make strategic choices.</p>
 
   <h3>Why Take Notes?</h3>
  <p>Structured notes enhance your understanding, reinforce key concepts, and serve as a valuable reference for future projects and research.</p>
