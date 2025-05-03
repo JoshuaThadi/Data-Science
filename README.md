@@ -14,6 +14,12 @@
 
 Welcome to the Data Science assignment repository! This assignment, developed as part of a Coursera course, covers key data science concepts and practical coding exercises in Jupyter Notebook. Below is a summary of what you will find in this repository.
 
+<a href="https://github.com/JoshuaThadi/Data-Science/tree/main/IBM-Data-Science">
+  <img src="https://img.shields.io/badge/IBM-Data%20Science%20Assignments-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="IBM_badge">
+</a>
+
+
+
 ## Objectives
 
 - Understand and list popular languages used in Data Science
