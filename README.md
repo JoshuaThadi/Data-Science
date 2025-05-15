@@ -10,7 +10,7 @@
   </a>
 </p>
 
-# Data Science Assignment
+# IDM Data Science Assignment
 
 Welcome to the Data Science assignment repository! This assignment, developed as part of a Coursera course, covers key data science concepts and practical coding exercises in Jupyter Notebook. Below is a summary of what you will find in this repository.
 
