@@ -7,6 +7,10 @@
 <h2>What is Data Science?</h2>
 <h4>Data Science is an interdisciplinary field that uses statistical techniques, programming, data analysis, and machine learning to extract insights and knowledge from structured and unstructured data. It lies at the intersection of mathematics, computer science, and domain expertise.</h4>
 
+<a href="https://github.com/JoshuaThadi/Data-Science/blob/main/DS-roadmap.md" target="_blank">
+  <img src="https://img.shields.io/badge/Data%20Science%20Roadmap-View-grey?style=for-the-badge&logo=github&logoColor=white" alt="Data Science Roadmap">
+</a>
+
 
 <h3>☆ Key Components of Data Science</h3>
 1] <b>Data Collection:</b> Gathering data from various sources: databases, APIs, sensors, web scraping, etc.<br>
