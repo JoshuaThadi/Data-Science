@@ -22,10 +22,24 @@
 8] <b>Monitoring and Maintenance:</b> Tracking model performance over time and retraining when necessary.<br>
 
 <h3>✪ Common Tools and Languages</h3>
+
 1] <b>Languages:</b> Python, R, SQL <br>
 2] <b>Libraries/Frameworks:</b> Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch <br>
 3] <b>Platforms:</b> Jupyter Notebooks, Google Colab, AWS, Azure <br>
 4] <b>Visualization Tools:</b> Tableau, Power BI, Seaborn <br>
+
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+
+<a href="https://www.r-project.org/" target="_blank">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://img.shields.io/badge/ML_Frameworks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning Frameworks"></a>
+
 
 <h3>✫ Applications of Data Science</h3>
 
