@@ -19,16 +19,6 @@
 8] <b>Monitoring and Maintenance:</b> Tracking model performance over time and retraining when necessary.<br>
 
 
-
-<a href="https://en.wikipedia.org/wiki/Data_collection" target="_blank">
-  <img src="https://img.shields.io/badge/Data%20Collection-Databases%2C%20APIs%2C%20Web%20Scraping-blue?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Collection"></a>
-
-<a href="https://www.ibm.com/topics/data-cleaning" target="_blank">
-  <img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20Preprocessing-Missing%20Data%2C%20Duplicates-orange?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Cleaning"></a>
-
-<a href="https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15" target="_blank">
-  <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-Patterns%2C%20Trends%2C%20Anomalies-yellow?style=for-the-badge&logo=plotly&logoColor=white" alt="Exploratory Data Analysis"></a>
-
 <a href="https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/" target="_blank">
   <img src="https://img.shields.io/badge/Feature%20Engineering-New%20Features%20from%20Data-teal?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Feature Engineering"></a>
 
@@ -41,6 +31,15 @@
 <a href="https://flask.palletsprojects.com/" target="_blank">
   <img src="https://img.shields.io/badge/Deployment-Flask%2C%20Docker%2C%20Cloud-blueviolet?style=for-the-badge&logo=docker&logoColor=white" alt="Deployment"></a>
 
+<a href="https://www.ibm.com/topics/data-cleaning" target="_blank">
+  <img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20Preprocessing-Missing%20Data%2C%20Duplicates-orange?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Cleaning"></a>
+
+<a href="https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15" target="_blank">
+  <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-Patterns%2C%20Trends%2C%20Anomalies-yellow?style=for-the-badge&logo=plotly&logoColor=white" alt="Exploratory Data Analysis"></a>
+
+  <a href="https://en.wikipedia.org/wiki/Data_collection" target="_blank">
+  <img src="https://img.shields.io/badge/Data%20Collection-Databases%2C%20APIs%2C%20Web%20Scraping-blue?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Collection"></a>
+  
 <a href="https://mlflow.org/docs/latest/monitoring.html" target="_blank">
   <img src="https://img.shields.io/badge/Monitoring%20%26%20Maintenance-Track%20and%20Retrain-critical?style=for-the-badge&logo=mlflow&logoColor=white" alt="Monitoring and Maintenance"></a>
 
@@ -52,19 +51,29 @@
 3] <b>Platforms:</b> Jupyter Notebooks, Google Colab, AWS, Azure <br>
 4] <b>Visualization Tools:</b> Tableau, Power BI, Seaborn <br>
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-<a href="https://www.r-project.org/" target="_blank">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></a>
-<a href="https://www.w3schools.com/sql/" target="_blank">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"></a>
-
 <a href="https://pandas.pydata.org/" target="_blank">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
 <a href="https://numpy.org/" target="_blank">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
 <a href="https://matplotlib.org/" target="_blank">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"></a>
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+<a href="https://www.r-project.org/" target="_blank">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></a>
+<a href="https://www.w3schools.com/sql/" target="_blank">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"></a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"></a>
+
+  <a href="https://www.tableau.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a>
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"></a>
+<a href="https://seaborn.pydata.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"></a>
+
 <a href="https://scikit-learn.org/" target="_blank">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"></a>
 <a href="https://www.tensorflow.org/" target="_blank">
@@ -78,16 +87,8 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"></a>
 <a href="https://aws.amazon.com/" target="_blank">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"></a>
-<a href="https://azure.microsoft.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"></a>
 
 
-<a href="https://www.tableau.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a>
-<a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"></a>
-<a href="https://seaborn.pydata.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"></a>
 
 
 
