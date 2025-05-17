@@ -2,7 +2,6 @@
   <img src="https://github.com/JoshuaThadi/IBM-Data-Science/blob/main/coursera.png" width="200">
 </p>
 
----
 
 <p align="center">
   <a href="https://www.coursera.org/professional-certificates/ibm-data-science">
@@ -28,6 +27,7 @@ Welcome to the Data Science assignment repository! This assignment, developed as
 - Perform unit conversions (e.g., converting minutes to hours)
 - Practice using Markdown and Code cells in Jupyter Notebook
 
+---
 
   <div align="center" class="header">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab Icon" width=350>
