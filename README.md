@@ -19,17 +19,17 @@
 8] <b>Monitoring and Maintenance:</b> Tracking model performance over time and retraining when necessary.<br>
 
 
+  <a href="https://en.wikipedia.org/wiki/Data_collection" target="_blank">
+  <img src="https://img.shields.io/badge/Data%20Collection-Databases%2C%20APIs%2C%20Web%20Scraping-blue?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Collection"></a>
+  
+<a href="https://mlflow.org/docs/latest/monitoring.html" target="_blank">
+  <img src="https://img.shields.io/badge/Monitoring%20%26%20Maintenance-Track%20and%20Retrain-critical?style=for-the-badge&logo=mlflow&logoColor=white" alt="Monitoring and Maintenance"></a>
+
 <a href="https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/" target="_blank">
   <img src="https://img.shields.io/badge/Feature%20Engineering-New%20Features%20from%20Data-teal?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Feature Engineering"></a>
 
-<a href="https://scikit-learn.org/stable/supervised_learning.html" target="_blank">
-  <img src="https://img.shields.io/badge/Model%20Building-ML%20Algorithms-green?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Model Building"></a>
-
 <a href="https://scikit-learn.org/stable/modules/model_evaluation.html" target="_blank">
   <img src="https://img.shields.io/badge/Model%20Evaluation-Precision%2C%20Recall%2C%20F1--score-9cf?style=for-the-badge&logoColor=white" alt="Model Evaluation"></a>
-
-<a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Deployment-Flask%2C%20Docker%2C%20Cloud-blueviolet?style=for-the-badge&logo=docker&logoColor=white" alt="Deployment"></a>
 
 <a href="https://www.ibm.com/topics/data-cleaning" target="_blank">
   <img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20Preprocessing-Missing%20Data%2C%20Duplicates-orange?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Cleaning"></a>
@@ -37,11 +37,13 @@
 <a href="https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15" target="_blank">
   <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-Patterns%2C%20Trends%2C%20Anomalies-yellow?style=for-the-badge&logo=plotly&logoColor=white" alt="Exploratory Data Analysis"></a>
 
-  <a href="https://en.wikipedia.org/wiki/Data_collection" target="_blank">
-  <img src="https://img.shields.io/badge/Data%20Collection-Databases%2C%20APIs%2C%20Web%20Scraping-blue?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Collection"></a>
-  
-<a href="https://mlflow.org/docs/latest/monitoring.html" target="_blank">
-  <img src="https://img.shields.io/badge/Monitoring%20%26%20Maintenance-Track%20and%20Retrain-critical?style=for-the-badge&logo=mlflow&logoColor=white" alt="Monitoring and Maintenance"></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Deployment-Flask%2C%20Docker%2C%20Cloud-blueviolet?style=for-the-badge&logo=docker&logoColor=white" alt="Deployment"></a>
+
+
+  <a href="https://scikit-learn.org/stable/supervised_learning.html" target="_blank">
+  <img src="https://img.shields.io/badge/Model%20Building-ML%20Algorithms-green?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Model Building"></a>
+
 
 
 <h3>✪ Common Tools and Languages</h3>
