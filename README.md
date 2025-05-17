@@ -34,15 +34,16 @@
 <a href="https://www.ibm.com/topics/data-cleaning" target="_blank">
   <img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20Preprocessing-Missing%20Data%2C%20Duplicates-orange?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Cleaning"></a>
 
+  
+  <a href="https://scikit-learn.org/stable/supervised_learning.html" target="_blank">
+  <img src="https://img.shields.io/badge/Model%20Building-ML%20Algorithms-green?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Model Building"></a>
+
 <a href="https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15" target="_blank">
   <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-Patterns%2C%20Trends%2C%20Anomalies-yellow?style=for-the-badge&logo=plotly&logoColor=white" alt="Exploratory Data Analysis"></a>
 
   <a href="https://flask.palletsprojects.com/" target="_blank">
   <img src="https://img.shields.io/badge/Deployment-Flask%2C%20Docker%2C%20Cloud-blueviolet?style=for-the-badge&logo=docker&logoColor=white" alt="Deployment"></a>
 
-
-  <a href="https://scikit-learn.org/stable/supervised_learning.html" target="_blank">
-  <img src="https://img.shields.io/badge/Model%20Building-ML%20Algorithms-green?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Model Building"></a>
 
 
 
