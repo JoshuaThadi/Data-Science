@@ -4,7 +4,7 @@
 
 
 
-<h2>What is Data Science?</h2>
+<h2>☆ Data Science</h2>
 <h4>Data Science is an interdisciplinary field that uses statistical techniques, programming, data analysis, and machine learning to extract insights and knowledge from structured and unstructured data. It lies at the intersection of mathematics, computer science, and domain expertise.</h4>
 
 <a href="https://github.com/JoshuaThadi/Data-Science/blob/main/DS-roadmap.md" target="_blank">
