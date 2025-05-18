@@ -51,12 +51,13 @@
 
 
 
-<h3>✪ Common Tools and Languages</h3>
+<h3>✪ Core Python Libraries / Modules</h3>
 
-1] <b>Languages:</b> Python, R, SQL <br>
-2] <b>Libraries/Frameworks:</b> Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch <br>
-3] <b>Platforms:</b> Jupyter Notebooks, Google Colab, AWS, Azure <br>
-4] <b>Visualization Tools:</b> Tableau, Power BI, Seaborn <br>
+<b> Data Manipulation & Analysis</b> – NumPy, Pandas, Dask <br>
+<b> Data Visualization</b> – Matplotlib, Seaborn, Plotly, Altair <br>
+<b> Machine Learning</b> – scikit-learn, XGBoost, LightGBM, CatBoost, Hugging Face Transformers, TensorFlow, PyTorch <br>
+<b> Deep Learning</b> – Keras, PyTorch Lightning, ONNX <br>
+<b> Model Deployment</b> – Flask, FastAPI, Streamlit, Gradio, Docker <br>
 
 <a href="https://pandas.pydata.org/" target="_blank">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
@@ -123,19 +124,6 @@
 9] <b>Neural Networks</b> – CNN, RNN, GAN, transformers <br>
 10] <b>Recommendation Systems</b> – Collaborative filtering, content-based <br>
 11] <b>Data Cleaning & Wrangling</b> – Imputation, normalization, data types <br>
-
-<h3>🌐 Datasets & Practice</h3>
-1] <b>Kaggle Datasets</b> <br>
-2] <b>UCI Machine Learning Repository</b> <br>
-3] <b>Google Dataset Search</b> <br>
-4] <b>Data.gov</b> <br>
-
-<h3>📖 Learning Resources</h3>
-1] <b>Python for Data Science</b> – freeCodeCamp <br>
-2] <b>Coursera Data Science Specialization</b> <br>
-3] <b>Fast.ai Courses</b> <br>
-4] <b>Harvard CS109</b> – Data Science <br>
-
 
 
 <h3>✫ Applications of Data Science</h3>
@@ -229,6 +217,18 @@ Data Science enables organizations to:<br>
 4] Improve customer experiences and optimize operations<br>
 </p>
 
+
+<h3>🌐 Datasets & Practice</h3>
+1] <b>Kaggle Datasets</b> <br>
+2] <b>UCI Machine Learning Repository</b> <br>
+3] <b>Google Dataset Search</b> <br>
+4] <b>Data.gov</b> <br>
+
+<h3>📖 Learning Resources</h3>
+1] <b>Python for Data Science</b> – freeCodeCamp <br>
+2] <b>Coursera Data Science Specialization</b> <br>
+3] <b>Fast.ai Courses</b> <br>
+4] <b>Harvard CS109</b> – Data Science <br>
 
 
 
