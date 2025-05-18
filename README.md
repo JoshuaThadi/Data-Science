@@ -8,8 +8,10 @@
 <h4>Data Science is an interdisciplinary field that uses statistical techniques, programming, data analysis, and machine learning to extract insights and knowledge from structured and unstructured data. It lies at the intersection of mathematics, computer science, and domain expertise.</h4>
 
 <a href="https://github.com/JoshuaThadi/Data-Science/blob/main/DS-roadmap.md" target="_blank">
-  <img src="https://img.shields.io/badge/Data%20Science%20Roadmap-View-grey?style=for-the-badge&logo=github&logoColor=white" alt="Data Science Roadmap">
-</a>
+  <img src="https://img.shields.io/badge/Data%20Science%20Roadmap-View-grey?style=for-the-badge&logo=github&logoColor=white" alt="Data Science Roadmap"></a>
+  <a href="https://youtu.be/LHBE6Q9XlzI?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Data_science-BF616A?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Thumbnail"></a>
+
 
 
 <h3>☆ Key Components of Data Science</h3>
@@ -130,6 +132,33 @@
 <a href="https://en.wikipedia.org/wiki/Data_wrangling" target="_blank"> <img src="https://img.shields.io/badge/Data_Cleaning_&_Wrangling-Imputation,_Normalization-7C8B96?style=for-the-badge&logo=dataiku&logoColor=white" alt="Data Cleaning"></a>
 
 
+
+<h3>★ Why is Data Science Important?</h3>
+<p> 
+Data Science enables organizations to:<br>
+1] Make data-driven decisions<br>
+2] Predict future trends<br>
+3] Automate processes using machine learning<br>
+4] Improve customer experiences and optimize operations<br>
+</p>
+
+
+<h3>🌐 Datasets & Practice</h3>
+1] <b>Kaggle Datasets</b> <br>
+2] <b>UCI Machine Learning Repository</b> <br>
+3] <b>Google Dataset Search</b> <br>
+4] <b>Data.gov</b> <br>
+
+<a href="https://www.kaggle.com/datasets" target="_blank"> <img src="https://img.shields.io/badge/Kaggle_Datasets-Practice_&_Projects-5E81AC?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Datasets"></a> <a href="https://archive.ics.uci.edu/" target="_blank"> <img src="https://img.shields.io/badge/UCI_Repository-Classic_Datasets-BF616A?style=for-the-badge&logo=databricks&logoColor=white" alt="UCI Repository"></a> <a href="https://datasetsearch.research.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Google_Dataset_Search-Searchable_Data-4C566A?style=for-the-badge&logo=google&logoColor=white" alt="Google Dataset Search"></a> <a href="https://www.data.gov/" target="_blank"> <img src="https://img.shields.io/badge/Data.gov-US_Open_Data-A3BE8C?style=for-the-badge&logo=govtech&logoColor=white" alt="Data.gov"></a>
+
+<h3>📖 Learning Resources</h3>
+1] <b>Python for Data Science</b> – freeCodeCamp <br>
+2] <b>Coursera Data Science Specialization</b> <br>
+3] <b>Fast.ai Courses</b> <br>
+4] <b>Harvard CS109</b> – Data Science <br>
+
+<a href="https://www.freecodecamp.org/learn/data-analysis-with-python/" target="_blank"> <img src="https://img.shields.io/badge/Python_for_Data_Science-freeCodeCamp-D08770?style=for-the-badge&logo=python&logoColor=white" alt="Python for Data Science"></a> <a href="https://www.coursera.org/specializations/jhu-data-science" target="_blank"> <img src="https://img.shields.io/badge/Coursera_Data_Science_JHU-Specialization-B48EAD?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera JHU"></a> <a href="https://course.fast.ai/" target="_blank"> <img src="https://img.shields.io/badge/Fast.ai-Cutting_Edge_Courses-EBCB8B?style=for-the-badge&logo=fastapi&logoColor=white" alt="Fast.ai"></a> <a href="https://cs109.github.io/2022/" target="_blank"> <img src="https://img.shields.io/badge/Harvard_CS109-Data_Science_Course-88C0D0?style=for-the-badge&logo=Harvard&logoColor=white" alt="Harvard CS109"></a>
+
 <h3>✫ Applications of Data Science</h3>
 
 1] <b>Drug Discovery & Personalized Medicine</b><br>
@@ -212,31 +241,6 @@ How: Data models trained on socio-economic datasets to project real-world impact
   <img src="https://img.shields.io/badge/Social%20Good-%26%20Policy%20Simulation-009688?style=for-the-badge&logo=unicef&logoColor=white" alt="Social Good & Policy Simulation">
 </a>
 
-<h3>★ Why is Data Science Important?</h3>
-<p> 
-Data Science enables organizations to:<br>
-1] Make data-driven decisions<br>
-2] Predict future trends<br>
-3] Automate processes using machine learning<br>
-4] Improve customer experiences and optimize operations<br>
-</p>
-
-
-<h3>🌐 Datasets & Practice</h3>
-1] <b>Kaggle Datasets</b> <br>
-2] <b>UCI Machine Learning Repository</b> <br>
-3] <b>Google Dataset Search</b> <br>
-4] <b>Data.gov</b> <br>
-
-<a href="https://www.kaggle.com/datasets" target="_blank"> <img src="https://img.shields.io/badge/Kaggle_Datasets-Practice_&_Projects-5E81AC?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Datasets"></a> <a href="https://archive.ics.uci.edu/" target="_blank"> <img src="https://img.shields.io/badge/UCI_Repository-Classic_Datasets-BF616A?style=for-the-badge&logo=databricks&logoColor=white" alt="UCI Repository"></a> <a href="https://datasetsearch.research.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Google_Dataset_Search-Searchable_Data-4C566A?style=for-the-badge&logo=google&logoColor=white" alt="Google Dataset Search"></a> <a href="https://www.data.gov/" target="_blank"> <img src="https://img.shields.io/badge/Data.gov-US_Open_Data-A3BE8C?style=for-the-badge&logo=govtech&logoColor=white" alt="Data.gov"></a>
-
-<h3>📖 Learning Resources</h3>
-1] <b>Python for Data Science</b> – freeCodeCamp <br>
-2] <b>Coursera Data Science Specialization</b> <br>
-3] <b>Fast.ai Courses</b> <br>
-4] <b>Harvard CS109</b> – Data Science <br>
-
-<a href="https://www.freecodecamp.org/learn/data-analysis-with-python/" target="_blank"> <img src="https://img.shields.io/badge/Python_for_Data_Science-freeCodeCamp-D08770?style=for-the-badge&logo=python&logoColor=white" alt="Python for Data Science"></a> <a href="https://www.coursera.org/specializations/jhu-data-science" target="_blank"> <img src="https://img.shields.io/badge/Coursera_Data_Science_JHU-Specialization-B48EAD?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera JHU"></a> <a href="https://course.fast.ai/" target="_blank"> <img src="https://img.shields.io/badge/Fast.ai-Cutting_Edge_Courses-EBCB8B?style=for-the-badge&logo=fastapi&logoColor=white" alt="Fast.ai"></a> <a href="https://cs109.github.io/2022/" target="_blank"> <img src="https://img.shields.io/badge/Harvard_CS109-Data_Science_Course-88C0D0?style=for-the-badge&logo=Harvard&logoColor=white" alt="Harvard CS109"></a>
 
 
 
