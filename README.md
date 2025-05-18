@@ -209,7 +209,7 @@ Use Case: Making video games adapt to player skill in real time for better engag
 How: Analyzing gameplay data to adjust difficulty, recommend challenges, or predict player churn.<br>
 
 <a href="https://en.wikipedia.org/wiki/Game_analytics" target="_blank">
-  <img src="https://img.shields.io/badge/Game%20Analytics-%26%20Dynamic%20Difficulty%20Adjustment-4C566A?style=for-the-badge&logo=steam&logoColor=white" alt="Game Analytics & Dynamic Difficulty Adjustment">
+  <img src="https://img.shields.io/badge/Game%20Analytics-%26%20Dynamic%20Difficulty%20Adjustment-4C599A?style=for-the-badge&logo=steam&logoColor=white" alt="Game Analytics & Dynamic Difficulty Adjustment">
 </a>
 
 
@@ -234,7 +234,7 @@ How: Data science models help map and understand genetic patterns to identify ge
 Use Case: Personalizing learning paths for students.<br>
 How: Tracking student performance data and recommending content or pace adjustment using ML.<br>
 <a href="https://en.wikipedia.org/wiki/Educational_technology" target="_blank">
-  <img src="https://img.shields.io/badge/Adaptive%20Learning-Systems%20in%20EdTech-4C566A?style=for-the-badge&logo=edmodo&logoColor=white" alt="Adaptive Learning Systems in EdTech">
+  <img src="https://img.shields.io/badge/Adaptive%20Learning-Systems%20in%20EdTech-4C599A?style=for-the-badge&logo=edmodo&logoColor=white" alt="Adaptive Learning Systems in EdTech">
 </a>
 
 
