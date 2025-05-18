@@ -190,6 +190,47 @@ Data Science enables organizations to:<br>
 4] Improve customer experiences and optimize operations<br>
 </p>
 
+<h3>📚 Core Subjects in Data Science</h3>
+1] <b>Statistics & Probability</b> – Foundational math for inference and predictions <br>
+2] <b>Linear Algebra</b> – Vectors, matrices — core of ML models <br>
+3] <b>Calculus</b> – Gradient descent, optimization <br>
+4] <b>Machine Learning</b> – Algorithms to learn from data <br>
+5] <b>Deep Learning</b> – Neural networks and deep architectures <br>
+6] <b>NLP (Natural Language Processing)</b> – Working with text and language <br>
+7] <b>Computer Vision</b> – Image and video analysis <br>
+8] <b>Big Data</b> – Working with large-scale data <br>
+9] <b>Data Engineering</b> – Pipelines, ETL, data storage <br>
+10] <b>Model Deployment</b> – Turning models into APIs/apps <br>
+11] <b>MLOps</b> – Production lifecycle of ML models <br>
+12] <b>Data Visualization</b> – Communicating insights effectively <br>
+13] <b>Cloud & DevOps</b> – Using AWS, Azure, GCP for scalable data solutions <br>
+
+<h3>📌 Topics to Cover</h3>
+1] <b>Exploratory Data Analysis (EDA)</b> – Missing data, outliers, visualization <br>
+2] <b>Feature Engineering</b> – Encoding, scaling, transformations <br>
+3] <b>Model Evaluation</b> – Accuracy, precision, recall, ROC, AUC <br>
+4] <b>Hyperparameter Tuning</b> – GridSearch, RandomSearch, Optuna <br>
+5] <b>Dimensionality Reduction</b> – PCA, t-SNE, UMAP <br>
+6] <b>Time Series Analysis</b> – ARIMA, LSTM, Prophet <br>
+7] <b>Unsupervised Learning</b> – Clustering (KMeans, DBSCAN), PCA <br>
+8] <b>Supervised Learning</b> – Regression, classification <br>
+9] <b>Neural Networks</b> – CNN, RNN, GAN, transformers <br>
+10] <b>Recommendation Systems</b> – Collaborative filtering, content-based <br>
+11] <b>Data Cleaning & Wrangling</b> – Imputation, normalization, data types <br>
+
+<h3>🌐 Datasets & Practice</h3>
+1] <b>Kaggle Datasets</b> <br>
+2] <b>UCI Machine Learning Repository</b> <br>
+3] <b>Google Dataset Search</b> <br>
+4] <b>Data.gov</b> <br>
+
+<h3>📖 Learning Resources</h3>
+1] <b>Python for Data Science</b> – freeCodeCamp <br>
+2] <b>Coursera Data Science Specialization</b> <br>
+3] <b>Fast.ai Courses</b> <br>
+4] <b>Harvard CS109</b> – Data Science <br>
+
+
 
 
 ---
