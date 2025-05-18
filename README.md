@@ -164,82 +164,88 @@ Data Science enables organizations to:<br>
 1] <b>Drug Discovery & Personalized Medicine</b><br>
 Use Case: Analyzing genetic data and molecular structures to discover new drugs faster and more effectively.<br>
 How: Machine learning models predict how a drug will interact with human proteins, reducing the need for trial-and-error in labs.<br>
-
 <a href="https://en.wikipedia.org/wiki/Drug_discovery" target="_blank">
-  <img src="https://img.shields.io/badge/Drug%20Discovery-%26%20Personalized%20Medicine-4CAF50?style=for-the-badge&logo=databricks&logoColor=white" alt="Drug Discovery & Personalized Medicine">
+  <img src="https://img.shields.io/badge/Drug%20Discovery-%26%20Personalized%20Medicine-5E81AC?style=for-the-badge&logo=databricks&logoColor=white" alt="Drug Discovery & Personalized Medicine">
 </a>
+
 
 2] <b>Satellite Image Analysis & Earth Observation</b><br>
 Use Case: Monitoring deforestation, urban expansion, and climate change from space.<br>
 How: Computer vision applied to satellite imagery to track environmental changes in near real-time.</br>
-
 <a href="https://en.wikipedia.org/wiki/Satellite_imagery" target="_blank">
-  <img src="https://img.shields.io/badge/Satellite%20Image%20Analysis-%26%20Earth%20Observation-2196F3?style=for-the-badge&logo=googleearth&logoColor=white" alt="Satellite Image Analysis & Earth Observation">
+  <img src="https://img.shields.io/badge/Satellite%20Image%20Analysis-%26%20Earth%20Observation-5E81AC?style=for-the-badge&logo=googleearth&logoColor=white" alt="Satellite Image Analysis & Earth Observation">
 </a>
+
 
 3] <b>Neuroinformatics & Brain-Computer Interfaces (BCIs)</b><br>
 Use Case: Interpreting brain signals to control external devices or assist people with disabilities.<br>
 How: ML models decode EEG/fMRI data to enable mind-controlled prosthetics or communication devices.<br>
 
 <a href="https://en.wikipedia.org/wiki/Neuroinformatics" target="_blank">
-  <img src="https://img.shields.io/badge/Neuroinformatics-%26%20BCIs-9C27B0?style=for-the-badge&logo=neovim&logoColor=white" alt="Neuroinformatics & Brain-Computer Interfaces (BCIs)">
+  <img src="https://img.shields.io/badge/Neuroinformatics-%26%20BCIs-B48EAD?style=for-the-badge&logo=neovim&logoColor=white" alt="Neuroinformatics & Brain-Computer Interfaces (BCIs)">
 </a>
+
 
 4] <b>Legal Analytics & Predictive Judging</b><br>
 Use Case: Predicting the outcome of legal cases or analyzing judge rulings.<br>
 How: NLP and ML models analyze vast amounts of case law and court data to assist legal research and strategy.<br>
 
 <a href="https://en.wikipedia.org/wiki/Legal_analytics" target="_blank">
-  <img src="https://img.shields.io/badge/Legal%20Analytics-%26%20Predictive%20Judging-FF9800?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Legal Analytics & Predictive Judging">
+  <img src="https://img.shields.io/badge/Legal%20Analytics-%26%20Predictive%20Judging-4C588A?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Legal Analytics & Predictive Judging">
 </a>
+
 
 5] <b>Content Generation & Scriptwriting</b><br>
 Use Case: Assisting in writing movie scripts or generating realistic dialogue.<br>
 How: NLP and generative models trained on film scripts, books, or dialogues to suggest or generate creative writing.<br>
 
 <a href="https://en.wikipedia.org/wiki/Natural-language_generation" target="_blank">
-  <img src="https://img.shields.io/badge/Content%20Generation-%26%20Scriptwriting-E91E63?style=for-the-badge&logo=writedotas&logoColor=white" alt="Content Generation & Scriptwriting">
+  <img src="https://img.shields.io/badge/Content%20Generation-%26%20Scriptwriting-BF616A?style=for-the-badge&logo=writedotas&logoColor=white" alt="Content Generation & Scriptwriting">
 </a>
+
 
 6] <b>Game Analytics & Dynamic Difficulty Adjustment</b>
 Use Case: Making video games adapt to player skill in real time for better engagement.<br>
 How: Analyzing gameplay data to adjust difficulty, recommend challenges, or predict player churn.<br>
 
 <a href="https://en.wikipedia.org/wiki/Game_analytics" target="_blank">
-  <img src="https://img.shields.io/badge/Game%20Analytics-%26%20Dynamic%20Difficulty%20Adjustment-795548?style=for-the-badge&logo=steam&logoColor=white" alt="Game Analytics & Dynamic Difficulty Adjustment">
+  <img src="https://img.shields.io/badge/Game%20Analytics-%26%20Dynamic%20Difficulty%20Adjustment-4C566A?style=for-the-badge&logo=steam&logoColor=white" alt="Game Analytics & Dynamic Difficulty Adjustment">
 </a>
+
 
 7] <b>Smart City Optimization</b>
 Use Case: Managing traffic, energy consumption, and emergency response in real time.<br>
 How: Integrating IoT sensor data with predictive analytics to optimize urban infrastructure.<br>
 
 <a href="https://en.wikipedia.org/wiki/Smart_city" target="_blank">
-  <img src="https://img.shields.io/badge/Smart%20City-Optimization-607D8B?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Smart City Optimization">
+  <img src="https://img.shields.io/badge/Smart%20City-Optimization-BF616A?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Smart City Optimization">
 </a>
+
 
 8] <b>Synthetic Biology & Genomic Sequencing</b><br>
 Use Case: Designing synthetic organisms or editing genes more efficiently.<br>
 How: Data science models help map and understand genetic patterns to identify gene targets for editing (CRISPR, etc.)<br>
 
 <a href="https://en.wikipedia.org/wiki/Synthetic_biology" target="_blank">
-  <img src="https://img.shields.io/badge/Synthetic%20Biology-%26%20Genomic%20Sequencing-3F51B5?style=for-the-badge&logo=dna&logoColor=white" alt="Synthetic Biology & Genomic Sequencing">
+  <img src="https://img.shields.io/badge/Synthetic%20Biology-%26%20Genomic%20Sequencing-B48EAD?style=for-the-badge&logo=dna&logoColor=white" alt="Synthetic Biology & Genomic Sequencing">
 </a>
 
 9] <b>Adaptive Learning Systems in EdTech</b><br>
 Use Case: Personalizing learning paths for students.<br>
 How: Tracking student performance data and recommending content or pace adjustment using ML.<br>
-
 <a href="https://en.wikipedia.org/wiki/Educational_technology" target="_blank">
-  <img src="https://img.shields.io/badge/Adaptive%20Learning-Systems%20in%20EdTech-00BCD4?style=for-the-badge&logo=edmodo&logoColor=white" alt="Adaptive Learning Systems in EdTech">
+  <img src="https://img.shields.io/badge/Adaptive%20Learning-Systems%20in%20EdTech-4C566A?style=for-the-badge&logo=edmodo&logoColor=white" alt="Adaptive Learning Systems in EdTech">
 </a>
+
 
 10] <b>Social Good & Policy Simulation</b><br>
 Use Case: Simulating the outcome of policy changes (e.g., taxation, healthcare).<br>
 How: Data models trained on socio-economic datasets to project real-world impact of policies.<br>
 
 <a href="https://en.wikipedia.org/wiki/Policy_analysis" target="_blank">
-  <img src="https://img.shields.io/badge/Social%20Good-%26%20Policy%20Simulation-009688?style=for-the-badge&logo=unicef&logoColor=white" alt="Social Good & Policy Simulation">
+  <img src="https://img.shields.io/badge/Social%20Good-%26%20Policy%20Simulation-BF616A?style=for-the-badge&logo=unicef&logoColor=white" alt="Social Good & Policy Simulation">
 </a>
+
 
 
 
