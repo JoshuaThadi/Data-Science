@@ -23,30 +23,7 @@
 8] <b>Monitoring and Maintenance:</b> Tracking model performance over time and retraining when necessary.<br>
 
 
-  <a href="https://en.wikipedia.org/wiki/Data_collection" target="_blank">
-  <img src="https://img.shields.io/badge/Data%20Collection-Databases%2C%20APIs%2C%20Web%20Scraping-blue?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Collection"></a>
-  
-<a href="https://mlflow.org/docs/latest/monitoring.html" target="_blank">
-  <img src="https://img.shields.io/badge/Monitoring%20%26%20Maintenance-Track%20and%20Retrain-critical?style=for-the-badge&logo=mlflow&logoColor=white" alt="Monitoring and Maintenance"></a>
-
-  <a href="https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15" target="_blank">
-  <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-Patterns%2C%20Trends%2C%20Anomalies-yellow?style=for-the-badge&logo=plotly&logoColor=white" alt="Exploratory Data Analysis"></a>
-
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Deployment-Flask%2C%20Docker%2C%20Cloud-blueviolet?style=for-the-badge&logo=docker&logoColor=white" alt="Deployment"></a>
-
-<a href="https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/" target="_blank">
-  <img src="https://img.shields.io/badge/Feature%20Engineering-New%20Features%20from%20Data-teal?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Feature Engineering"></a>
-
-<a href="https://scikit-learn.org/stable/modules/model_evaluation.html" target="_blank">
-  <img src="https://img.shields.io/badge/Model%20Evaluation-Precision%2C%20Recall%2C%20F1--score-9cf?style=for-the-badge&logoColor=white" alt="Model Evaluation"></a>
-
-<a href="https://www.ibm.com/topics/data-cleaning" target="_blank">
-  <img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20Preprocessing-Missing%20Data%2C%20Duplicates-orange?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Cleaning"></a>
-
-  
-  <a href="https://scikit-learn.org/stable/supervised_learning.html" target="_blank">
-  <img src="https://img.shields.io/badge/Model%20Building-ML%20Algorithms-green?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Model Building"></a>
+<a href="https://en.wikipedia.org/wiki/Data_collection" target="_blank"> <img src="https://img.shields.io/badge/Data_Collection-Databases,_APIs,_Scraping-5E81AC?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Collection"></a> <a href="https://mlflow.org/docs/latest/monitoring.html" target="_blank"> <img src="https://img.shields.io/badge/Monitoring_&_Maintenance-Track_&_Retrain-BF616A?style=for-the-badge&logo=mlflow&logoColor=white" alt="Monitoring and Maintenance"></a> <a href="https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15" target="_blank"> <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-Trends_&_Anomalies-EBCB8B?style=for-the-badge&logo=plotly&logoColor=white" alt="Exploratory Data Analysis"></a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/Deployment-Flask,_Docker,_Cloud-B48EAD?style=for-the-badge&logo=docker&logoColor=white" alt="Deployment"></a> <a href="https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/" target="_blank"> <img src="https://img.shields.io/badge/Feature_Engineering-Create_New_Features-8FBCBB?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Feature Engineering"></a> <a href="https://scikit-learn.org/stable/modules/model_evaluation.html" target="_blank"> <img src="https://img.shields.io/badge/Model_Evaluation-Precision,_Recall,_F1--Score-4C566A?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Model Evaluation"></a> <a href="https://www.ibm.com/topics/data-cleaning" target="_blank"> <img src="https://img.shields.io/badge/Data_Cleaning_&_Preprocessing-Missing_Data,_Duplicates-D08770?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Cleaning"></a> <a href="https://scikit-learn.org/stable/supervised_learning.html" target="_blank"> <img src="https://img.shields.io/badge/Model_Building-ML_Algorithms-A3BE8C?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Model Building"></a>
 
 
 
@@ -112,6 +89,21 @@
 12] <b>Data Visualization</b> – Communicating insights effectively <br>
 13] <b>Cloud & DevOps</b> – Using AWS, Azure, GCP for scalable data solutions <br>
 
+<a href="https://en.wikipedia.org/wiki/Statistics" target="_blank"> <img src="https://img.shields.io/badge/Statistics_&_Probability-Foundations-5E81AC?style=for-the-badge&logo=R&logoColor=white" alt="Statistics & Probability"></a> 
+<a href="https://en.wikipedia.org/wiki/Linear_algebra" target="_blank"> <img src="https://img.shields.io/badge/Linear_Algebra-Vectors_&_Matrices-BF616A?style=for-the-badge&logo=Numpy&logoColor=white" alt="Linear Algebra"></a> 
+<a href="https://en.wikipedia.org/wiki/Calculus" target="_blank"> <img src="https://img.shields.io/badge/Calculus-Optimization_&_Gradients-4C566A?style=for-the-badge&logo=marketo&logoColor=white" alt="Calculus"></a>
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"> <img src="https://img.shields.io/badge/Machine_Learning-Algorithms-8FBC8F?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"></a> 
+<a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank"> <img src="https://img.shields.io/badge/Deep_Learning-Neural_Networks-D08770?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"></a> 
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank"> <img src="https://img.shields.io/badge/NLP-Text_&_Language-A3BE8C?style=for-the-badge&logo=spacy&logoColor=white" alt="Natural Language Processing"></a>
+<a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank"> <img src="https://img.shields.io/badge/Computer_Vision-Image_&_Video-5E81AC?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"></a> 
+<a href="https://en.wikipedia.org/wiki/Big_data" target="_blank"> <img src="https://img.shields.io/badge/Big_Data-Large_Scale_Processing-B48EAD?style=for-the-badge&logo=apachespark&logoColor=white" alt="Big Data"></a> 
+<a href="https://en.wikipedia.org/wiki/Data_engineering" target="_blank"> <img src="https://img.shields.io/badge/Data_Engineering-ETL_&_Pipelines-EBCB8B?style=for-the-badge&logo=airflow&logoColor=white" alt="Data Engineering"></a> 
+<a href="https://en.wikipedia.org/wiki/Model_deployment" target="_blank"> <img src="https://img.shields.io/badge/Model_Deployment-APIs_&_Apps-EAA06A?style=for-the-badge&logo=docker&logoColor=white" alt="Model Deployment"></a> 
+<a href="https://en.wikipedia.org/wiki/MLOps" target="_blank"> <img src="https://img.shields.io/badge/MLOps-Production_Lifecycle-81A1C1?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLOps"></a> 
+<a href="https://en.wikipedia.org/wiki/Data_visualization" target="_blank"> <img src="https://img.shields.io/badge/Data_Visualization-Insight_Communication-A3BE8C?style=for-the-badge&logo=tableau&logoColor=white" alt="Data Visualization"></a> 
+<a href="https://en.wikipedia.org/wiki/DevOps" target="_blank"> <img src="https://img.shields.io/badge/Cloud_&_DevOps-Scalable_Solutions-EBCB8B?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Cloud & DevOps"></a>
+
+
 <h3>📌 Topics to Cover</h3>
 1] <b>Exploratory Data Analysis (EDA)</b> – Missing data, outliers, visualization <br>
 2] <b>Feature Engineering</b> – Encoding, scaling, transformations <br>
@@ -124,6 +116,18 @@
 9] <b>Neural Networks</b> – CNN, RNN, GAN, transformers <br>
 10] <b>Recommendation Systems</b> – Collaborative filtering, content-based <br>
 11] <b>Data Cleaning & Wrangling</b> – Imputation, normalization, data types <br>
+
+<a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis" target="_blank"> <img src="https://img.shields.io/badge/EDA-Missing_Data,_Outliers,_Viz-5E81AC?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="EDA"></a> 
+<a href="https://en.wikipedia.org/wiki/Feature_engineering" target="_blank"> <img src="https://img.shields.io/badge/Feature_Engineering-Encoding,_Scaling,_Transforms-BF616A?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Feature Engineering"></a> 
+<a href="https://en.wikipedia.org/wiki/Evaluation_of_binary_classifiers" target="_blank"> <img src="https://img.shields.io/badge/Model_Evaluation-Accuracy,_ROC,_AUC-D8DEE9?style=for-the-badge&logo=metrics&logoColor=black" alt="Model Evaluation"></a> 
+<a href="https://scikit-learn.org/stable/modules/grid_search.html" target="_blank"> <img src="https://img.shields.io/badge/Hyperparameter_Tuning-GridSearch,_Optuna-A3BE8C?style=for-the-badge&logo=optuna&logoColor=white" alt="Hyperparameter Tuning"></a> 
+<a href="https://en.wikipedia.org/wiki/Dimensionality_reduction" target="_blank"> <img src="https://img.shields.io/badge/Dimensionality_Reduction-PCA,_tSNE,_UMAP-D08770?style=for-the-badge&logo=pandas&logoColor=white" alt="Dimensionality Reduction"></a> 
+<a href="https://otexts.com/fpp3/" target="_blank"> <img src="https://img.shields.io/badge/Time_Series_ARIMA,_LSTM,_Prophet-81A1C1?style=for-the-badge&logo=clockify&logoColor=white" alt="Time Series Analysis"></a> 
+<a href="https://en.wikipedia.org/wiki/Cluster_analysis" target="_blank"> <img src="https://img.shields.io/badge/Unsupervised_Learning-Clustering,_PCA-B48EAD?style=for-the-badge&logo=databricks&logoColor=white" alt="Unsupervised Learning"></a> 
+<a href="https://en.wikipedia.org/wiki/Supervised_learning" target="_blank"> <img src="https://img.shields.io/badge/Supervised_Learning-Regression,_Classification-EBCB8B?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Supervised Learning"></a> 
+<a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank"> <img src="https://img.shields.io/badge/Neural_Networks-CNN,_RNN,_GAN,_Transformers-88C0D0?style=for-the-badge&logo=pytorch&logoColor=white" alt="Neural Networks"></a> 
+<a href="https://en.wikipedia.org/wiki/Recommender_system" target="_blank"> <img src="https://img.shields.io/badge/Recommendation_Systems-Collaborative_Content_Based-E78284?style=for-the-badge&logo=algolia&logoColor=white" alt="Recommendation Systems"></a> 
+<a href="https://en.wikipedia.org/wiki/Data_wrangling" target="_blank"> <img src="https://img.shields.io/badge/Data_Cleaning_&_Wrangling-Imputation,_Normalization-7C8B96?style=for-the-badge&logo=dataiku&logoColor=white" alt="Data Cleaning"></a>
 
 
 <h3>✫ Applications of Data Science</h3>
@@ -224,12 +228,15 @@ Data Science enables organizations to:<br>
 3] <b>Google Dataset Search</b> <br>
 4] <b>Data.gov</b> <br>
 
+<a href="https://www.kaggle.com/datasets" target="_blank"> <img src="https://img.shields.io/badge/Kaggle_Datasets-Practice_&_Projects-5E81AC?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Datasets"></a> <a href="https://archive.ics.uci.edu/" target="_blank"> <img src="https://img.shields.io/badge/UCI_Repository-Classic_Datasets-BF616A?style=for-the-badge&logo=databricks&logoColor=white" alt="UCI Repository"></a> <a href="https://datasetsearch.research.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Google_Dataset_Search-Searchable_Data-4C566A?style=for-the-badge&logo=google&logoColor=white" alt="Google Dataset Search"></a> <a href="https://www.data.gov/" target="_blank"> <img src="https://img.shields.io/badge/Data.gov-US_Open_Data-A3BE8C?style=for-the-badge&logo=govtech&logoColor=white" alt="Data.gov"></a>
+
 <h3>📖 Learning Resources</h3>
 1] <b>Python for Data Science</b> – freeCodeCamp <br>
 2] <b>Coursera Data Science Specialization</b> <br>
 3] <b>Fast.ai Courses</b> <br>
 4] <b>Harvard CS109</b> – Data Science <br>
 
+<a href="https://www.freecodecamp.org/learn/data-analysis-with-python/" target="_blank"> <img src="https://img.shields.io/badge/Python_for_Data_Science-freeCodeCamp-D08770?style=for-the-badge&logo=python&logoColor=white" alt="Python for Data Science"></a> <a href="https://www.coursera.org/specializations/jhu-data-science" target="_blank"> <img src="https://img.shields.io/badge/Coursera_Data_Science_JHU-Specialization-B48EAD?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera JHU"></a> <a href="https://course.fast.ai/" target="_blank"> <img src="https://img.shields.io/badge/Fast.ai-Cutting_Edge_Courses-EBCB8B?style=for-the-badge&logo=fastapi&logoColor=white" alt="Fast.ai"></a> <a href="https://cs109.github.io/2022/" target="_blank"> <img src="https://img.shields.io/badge/Harvard_CS109-Data_Science_Course-88C0D0?style=for-the-badge&logo=Harvard&logoColor=white" alt="Harvard CS109"></a>
 
 
 
