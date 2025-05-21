@@ -67,9 +67,9 @@ Welcome to the Data Science assignment repository! This assignment, developed as
 <a href="https://www.ibm.com/think/topics/feature-engineering" target="_blank"> 
     <img src="https://img.shields.io/badge/Feature_Engineering-Create_New_Features-8FBCBB?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Feature Engineering"></a> 
 <a href="https://www.coursera.org/articles/model-evaluation" target="_blank"> 
-    <img src="https://img.shields.io/badge/Model_Evaluation-Precision,_Recall,_F1--Score-4C566A?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Model Evaluation"></a> 
+    <img src="https://img.shields.io/badge/Model_Evaluation-Precision,_Recall-4C566A?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Model Evaluation"></a> 
 <a href="https://www.ibm.com/topics/data-cleaning" target="_blank"> 
-    <img src="https://img.shields.io/badge/Data_Cleaning_&_Preprocessing-Missing_Data,_Duplicates-D08770?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Cleaning"></a> 
+    <img src="https://img.shields.io/badge/Data_Cleaning_&_Preprocessing-Missing_Data-D08770?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Cleaning"></a> 
 <a href="https://www.secoda.co/glossary/data-deployment" target="_blank"> 
     <img src="https://img.shields.io/badge/Deployment-Flask,_Docker,_Cloud-B48EAD?style=for-the-badge&logo=docker&logoColor=white" alt="Deployment"></a> 
 <a href="https://www.geeksforgeeks.org/model-building-for-data-analytics/" target="_blank"> 
