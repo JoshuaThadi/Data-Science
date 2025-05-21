@@ -4,6 +4,39 @@
 
 
 
+<p align="center">
+  <img src="https://static-00.iconduck.com/assets.00/ibm-icon-2048x2048-7u4vxdv9.png" width="150">
+   <img src="https://github.com/JoshuaThadi/IBM-Data-Science/blob/main/coursera.png" width="150">
+</p>
+
+
+</p>
+
+# IDM Data Science Assignment
+
+Welcome to the Data Science assignment repository! This assignment, developed as part of a Coursera course, covers key data science concepts and practical coding exercises in Jupyter Notebook. Below is a summary of what you will find in this repository.
+
+<p align="center">
+  <a href="https://www.coursera.org/professional-certificates/ibm-data-science">
+    <img src="https://img.shields.io/badge/Coursera-Join%20Coursera%20Course-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"></a>
+  <a href="https://github.com/JoshuaThadi/Data-Science/tree/main/IBM-Data-Science">
+    <img src="https://img.shields.io/badge/IBM-Data%20Science%20Assignments-red?style=for-the-badge&logo=coursera&logoColor=white" alt="IBM_badge">
+</a>
+
+
+## Objectives
+
+<p>- Understand and list popular languages used in Data Science<br>
+- Explore essential libraries and tools for data science workflows<br>
+- Apply basic arithmetic operations within a Jupyter Notebook<br>
+- Perform unit conversions (e.g., converting minutes to hours)<br>
+- Practice using Markdown and Code cells in Jupyter Notebook<br></p>
+
+
+---
+
+<br>
+
 <h2>☆ Data Science</h2>
 <h4>Data Science is an interdisciplinary field that uses statistical techniques, programming, data analysis, and machine learning to extract insights and knowledge from structured and unstructured data. It lies at the intersection of mathematics, computer science, and domain expertise.</h4>
 
@@ -13,8 +46,8 @@
   <img src="https://img.shields.io/badge/YouTube-Data_science-BF616A?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Thumbnail"></a>
 
 
-
 <h3>☆ Key Components of Data Science</h3>
+
 1] <b>Data Collection:</b> Gathering data from various sources: databases, APIs, sensors, web scraping, etc.<br>
 2] <b>Data Cleaning and Preprocessing:</b> Handling missing data, removing duplicates, fixing errors, normalizing formats.<br>
 3] <b>Exploratory Data Analysis (EDA:</b> Using statistics and visualization to understand patterns, trends, and anomalies.<br>
@@ -25,7 +58,22 @@
 8] <b>Monitoring and Maintenance:</b> Tracking model performance over time and retraining when necessary.<br>
 
 
-<a href="https://en.wikipedia.org/wiki/Data_collection" target="_blank"> <img src="https://img.shields.io/badge/Data_Collection-Databases,_APIs,_Scraping-5E81AC?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Collection"></a> <a href="https://mlflow.org/docs/latest/monitoring.html" target="_blank"> <img src="https://img.shields.io/badge/Monitoring_&_Maintenance-Track_&_Retrain-BF616A?style=for-the-badge&logo=mlflow&logoColor=white" alt="Monitoring and Maintenance"></a> <a href="https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15" target="_blank"> <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-Trends_&_Anomalies-EBCB8B?style=for-the-badge&logo=plotly&logoColor=white" alt="Exploratory Data Analysis"></a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/Deployment-Flask,_Docker,_Cloud-B48EAD?style=for-the-badge&logo=docker&logoColor=white" alt="Deployment"></a> <a href="https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/" target="_blank"> <img src="https://img.shields.io/badge/Feature_Engineering-Create_New_Features-8FBCBB?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Feature Engineering"></a> <a href="https://scikit-learn.org/stable/modules/model_evaluation.html" target="_blank"> <img src="https://img.shields.io/badge/Model_Evaluation-Precision,_Recall,_F1--Score-4C566A?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Model Evaluation"></a> <a href="https://www.ibm.com/topics/data-cleaning" target="_blank"> <img src="https://img.shields.io/badge/Data_Cleaning_&_Preprocessing-Missing_Data,_Duplicates-D08770?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Cleaning"></a> <a href="https://scikit-learn.org/stable/supervised_learning.html" target="_blank"> <img src="https://img.shields.io/badge/Model_Building-ML_Algorithms-A3BE8C?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Model Building"></a>
+<a href="https://en.wikipedia.org/wiki/Data_collection" target="_blank"> 
+    <img src="https://img.shields.io/badge/Data_Collection-Databases,_APIs,_Scraping-5E81AC?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Collection"></a> 
+<a href="https://www.linkedin.com/pulse/monitoring-data-science-lifecycle-types-challenges-dmo9c/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Monitoring_&_Maintenance-Track_&_Retrain-BF616A?style=for-the-badge&logo=mlflow&logoColor=white" alt="Monitoring and Maintenance"></a> 
+<a href="https://www.ibm.com/think/topics/exploratory-data-analysis" target="_blank"> 
+    <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-Trends_&_Anomalies-EBCB8B?style=for-the-badge&logo=plotly&logoColor=white" alt="Exploratory Data Analysis"></a> 
+<a href="https://www.ibm.com/think/topics/feature-engineering" target="_blank"> 
+    <img src="https://img.shields.io/badge/Feature_Engineering-Create_New_Features-8FBCBB?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Feature Engineering"></a> 
+<a href="https://www.coursera.org/articles/model-evaluation" target="_blank"> 
+    <img src="https://img.shields.io/badge/Model_Evaluation-Precision,_Recall,_F1--Score-4C566A?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Model Evaluation"></a> 
+<a href="https://www.ibm.com/topics/data-cleaning" target="_blank"> 
+    <img src="https://img.shields.io/badge/Data_Cleaning_&_Preprocessing-Missing_Data,_Duplicates-D08770?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Cleaning"></a> 
+<a href="https://www.geeksforgeeks.org/model-building-for-data-analytics/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Model_Building-ML_Algorithms-A3BE8C?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Model Building"></a>
+<a href="https://www.secoda.co/glossary/data-deployment" target="_blank"> 
+    <img src="https://img.shields.io/badge/Deployment-Flask,_Docker,_Cloud-B48EAD?style=for-the-badge&logo=docker&logoColor=white" alt="Deployment"></a> 
 
 
 
@@ -250,38 +298,6 @@ How: Data models trained on socio-economic datasets to project real-world impact
 
 
 
----
-
-
-
-<p align="center">
-  <img src="https://static-00.iconduck.com/assets.00/ibm-icon-2048x2048-7u4vxdv9.png" width="150">
-   <img src="https://github.com/JoshuaThadi/IBM-Data-Science/blob/main/coursera.png" width="150">
-</p>
-
-<p align="center">
-  <a href="https://www.coursera.org/professional-certificates/ibm-data-science">
-    <img src="https://img.shields.io/badge/Coursera-Join%20Coursera%20Course-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera">
-  </a>
-</p>
-
-# IDM Data Science Assignment
-
-Welcome to the Data Science assignment repository! This assignment, developed as part of a Coursera course, covers key data science concepts and practical coding exercises in Jupyter Notebook. Below is a summary of what you will find in this repository.
-
-<a href="https://github.com/JoshuaThadi/Data-Science/tree/main/IBM-Data-Science">
-  <img src="https://img.shields.io/badge/IBM-Data%20Science%20Assignments-red?style=for-the-badge&logo=coursera&logoColor=white" alt="IBM_badge">
-</a>
-
-
-
-## Objectives
-
-<p>- Understand and list popular languages used in Data Science<br>
-- Explore essential libraries and tools for data science workflows<br>
-- Apply basic arithmetic operations within a Jupyter Notebook<br>
-- Perform unit conversions (e.g., converting minutes to hours)<br>
-- Practice using Markdown and Code cells in Jupyter Notebook<br></p>
 
 
 
