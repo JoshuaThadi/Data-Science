@@ -70,11 +70,10 @@ Welcome to the Data Science assignment repository! This assignment, developed as
     <img src="https://img.shields.io/badge/Model_Evaluation-Precision,_Recall,_F1--Score-4C566A?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Model Evaluation"></a> 
 <a href="https://www.ibm.com/topics/data-cleaning" target="_blank"> 
     <img src="https://img.shields.io/badge/Data_Cleaning_&_Preprocessing-Missing_Data,_Duplicates-D08770?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Cleaning"></a> 
-<a href="https://www.geeksforgeeks.org/model-building-for-data-analytics/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Model_Building-ML_Algorithms-A3BE8C?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Model Building"></a>
 <a href="https://www.secoda.co/glossary/data-deployment" target="_blank"> 
     <img src="https://img.shields.io/badge/Deployment-Flask,_Docker,_Cloud-B48EAD?style=for-the-badge&logo=docker&logoColor=white" alt="Deployment"></a> 
-
+<a href="https://www.geeksforgeeks.org/model-building-for-data-analytics/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Model_Building-ML_Algorithms-A3BE8C?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Model Building"></a>
 
 
 
