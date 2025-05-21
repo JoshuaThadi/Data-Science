@@ -57,15 +57,14 @@ Welcome to the Data Science assignment repository! This assignment, developed as
 7] <b>Deployment:</b> Integrating the model into a real-world application using tools like Flask, Docker, or cloud services<br>
 8] <b>Monitoring and Maintenance:</b> Tracking model performance over time and retraining when necessary.<br>
 
-
-<a href="https://en.wikipedia.org/wiki/Data_collection" target="_blank"> 
-    <img src="https://img.shields.io/badge/Data_Collection-Databases,_APIs,_Scraping-5E81AC?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Collection"></a> 
-<a href="https://www.linkedin.com/pulse/monitoring-data-science-lifecycle-types-challenges-dmo9c/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Monitoring_&_Maintenance-Track_&_Retrain-BF616A?style=for-the-badge&logo=mlflow&logoColor=white" alt="Monitoring and Maintenance"></a> 
 <a href="https://www.ibm.com/think/topics/exploratory-data-analysis" target="_blank"> 
     <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-Trends_&_Anomalies-EBCB8B?style=for-the-badge&logo=plotly&logoColor=white" alt="Exploratory Data Analysis"></a> 
 <a href="https://www.ibm.com/think/topics/feature-engineering" target="_blank"> 
     <img src="https://img.shields.io/badge/Feature_Engineering-Create_New_Features-8FBCBB?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Feature Engineering"></a> 
+<a href="https://en.wikipedia.org/wiki/Data_collection" target="_blank"> 
+    <img src="https://img.shields.io/badge/Data_Collection-Databases,_APIs,_Scraping-5E81AC?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Collection"></a> 
+<a href="https://www.linkedin.com/pulse/monitoring-data-science-lifecycle-types-challenges-dmo9c/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Monitoring_&_Maintenance-Track_&_Retrain-BF616A?style=for-the-badge&logo=mlflow&logoColor=white" alt="Monitoring and Maintenance"></a> 
 <a href="https://www.coursera.org/articles/model-evaluation" target="_blank"> 
     <img src="https://img.shields.io/badge/Model_Evaluation-Precision,_Recall-4C566A?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Model Evaluation"></a> 
 <a href="https://www.ibm.com/topics/data-cleaning" target="_blank"> 
