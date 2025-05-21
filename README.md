@@ -2,7 +2,7 @@
     <img width="100%" src="https://github.com/JoshuaThadi/Data-Science/blob/main/banner.png" alt="Google Colab Icon" width=350>
   </div>
 
-
+---
 
 <p align="center">
   <img src="https://static-00.iconduck.com/assets.00/ibm-icon-2048x2048-7u4vxdv9.png" width="150">
