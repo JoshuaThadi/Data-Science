@@ -4,10 +4,10 @@
 
 ---
 
-<p align="center">
+<!--<p align="center">
   <img src="https://static-00.iconduck.com/assets.00/ibm-icon-2048x2048-7u4vxdv9.png" width="150">
    <img src="https://github.com/JoshuaThadi/IBM-Data-Science/blob/main/coursera.png" width="150">
-</p>
+</p>-->
 
 
 </p>
