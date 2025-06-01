@@ -266,7 +266,7 @@ Data Science enables organizations to:<br>
     <img src="https://img.shields.io/badge/Python_for_Data_Science-freeCodeCamp-D08770?style=for-the-badge&logo=python&logoColor=white" alt="Python for Data Science"></a> 
 <a href="https://www.coursera.org/specializations/jhu-data-science" target="_blank"> 
     <img src="https://img.shields.io/badge/Coursera_Data_Science_JHU-Specialization-B48EAD?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera JHU"></a> 
-<a href="https://cs109.github.io/2022/" target="_blank"> 
+<a href="https://cs109.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Harvard_CS109-Data_Science_Course-88C0D0?style=for-the-badge&logo=Harvard&logoColor=white" alt="Harvard CS109"></a>
 <a href="https://course.fast.ai/" target="_blank"> 
     <img src="https://img.shields.io/badge/Fast.ai-Cutting_Edge_Courses-EBCB8B?style=for-the-badge&logo=fastapi&logoColor=white" alt="Fast.ai"></a> 
