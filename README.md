@@ -138,31 +138,43 @@ Welcome to the Data Science assignment repository! This assignment, developed as
 12] <b>Data Visualization</b> – Communicating insights effectively <br>
 13] <b>Cloud & DevOps</b> – Using AWS, Azure, GCP for scalable data solutions <br>
 
-<a href="https://en.wikipedia.org/wiki/Data_visualization" target="_blank">
+<a href="https://www.ibm.com/think/topics/data-visualization" target="_blank">
     <img src="https://img.shields.io/badge/Data_Visualization-Insight_Communication-A3BE8C?style=for-the-badge&logo=tableau&logoColor=white" alt="Data Visualization"></a> 
-<a href="https://en.wikipedia.org/wiki/Statistics" target="_blank"> 
+    
+<a href="https://www.geeksforgeeks.org/probability-and-statistics/" target="_blank"> 
     <img src="https://img.shields.io/badge/Statistics_&_Probability-Foundations-5E81AC?style=for-the-badge&logo=R&logoColor=white" alt="Statistics & Probability"></a> 
-<a href="https://en.wikipedia.org/wiki/Linear_algebra" target="_blank"> 
-    <img src="https://img.shields.io/badge/Linear_Algebra-Vectors_&_Matrices-BF616A?style=for-the-badge&logo=Numpy&logoColor=white" alt="Linear Algebra"></a> 
+    
+<a href="https://www.geeksforgeeks.org/linear-algebra/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Linear_Algebra-Vectors_&_Matrices-BF616A?style=for-the-badge&logo=Numpy&logoColor=white" alt="Linear Algebra"></a>
+    
 <a href="https://en.wikipedia.org/wiki/Calculus" target="_blank"> 
     <img src="https://img.shields.io/badge/Calculus-Optimization_&_Gradients-4C566A?style=for-the-badge&logo=marketo&logoColor=white" alt="Calculus"></a>
-<a href="https://en.wikipedia.org/wiki/Big_data" target="_blank"> 
+    
+<a href="https://www.ibm.com/think/topics/big-data" target="_blank"> 
     <img src="https://img.shields.io/badge/Big_Data-Large_Scale_Processing-B48EAD?style=for-the-badge&logo=apachespark&logoColor=white" alt="Big Data"></a> 
-<a href="https://en.wikipedia.org/wiki/DevOps" target="_blank"> 
+    
+<a href="https://www.ibm.com/devops" target="_blank"> 
     <img src="https://img.shields.io/badge/Cloud_&_DevOps-Scalable_Solutions-EBCB8B?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Cloud & DevOps"></a>
-<a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank"> 
+
+<a href="https://www.ibm.com/think/topics/deep-learning" target="_blank"> 
     <img src="https://img.shields.io/badge/Deep_Learning-Neural_Networks-D08770?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"></a> 
-<a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank"> 
+
+<a href="https://www.ibm.com/think/topics/computer-vision" target="_blank"> 
     <img src="https://img.shields.io/badge/Computer_Vision-Image_&_Video-5E81AC?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"></a> 
-<a href="https://en.wikipedia.org/wiki/Data_engineering" target="_blank"> 
+
+<a href="https://www.ibm.com/think/topics/data-engineering" target="_blank"> 
     <img src="https://img.shields.io/badge/Data_Engineering-ETL_&_Pipelines-EBCB8B?style=for-the-badge&logo=airflow&logoColor=white" alt="Data Engineering"></a> 
-<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"> 
+
+<a href="https://www.ibm.com/think/topics/machine-learning" target="_blank"> 
     <img src="https://img.shields.io/badge/Machine_Learning-Algorithms-8FBC8F?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"></a> 
-<a href="https://en.wikipedia.org/wiki/Model_deployment" target="_blank"> 
+
+<a href="https://www.ibm.com/think/topics/model-deployment" target="_blank"> 
     <img src="https://img.shields.io/badge/Model_Deployment-APIs_&_Apps-EAA06A?style=for-the-badge&logo=docker&logoColor=white" alt="Model Deployment"></a> 
-<a href="https://en.wikipedia.org/wiki/MLOps" target="_blank"> 
+
+<a href="https://www.ibm.com/think/topics/mlops" target="_blank"> 
     <img src="https://img.shields.io/badge/MLOps-Production_Lifecycle-81A1C1?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLOps"></a> 
-<a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank"> 
+
+<a href="https://www.ibm.com/think/topics/natural-language-processing" target="_blank"> 
     <img src="https://img.shields.io/badge/NLP-Text_&_Language-A3BE8C?style=for-the-badge&logo=spacy&logoColor=white" alt="Natural Language Processing"></a>
 
 
