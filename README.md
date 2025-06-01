@@ -1,5 +1,5 @@
 <div align="center" class="header">
-    <img width="100%" src="https://github.com/JoshuaThadi/Data-Science/blob/main/IBM-Data-Science/Ds-banner.png" alt="Google Colab Icon" width=350>
+    <img width="100%" src="https://github.com/JoshuaThadi/Data-Science/blob/main/Ds-banner.png" alt="Google Colab Icon" width=350>
   </div>
 
 ---
