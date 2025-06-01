@@ -180,20 +180,28 @@ Welcome to the Data Science assignment repository! This assignment, developed as
 10] <b>Recommendation Systems</b> – Collaborative filtering, content-based <br>
 11] <b>Data Cleaning & Wrangling</b> – Imputation, normalization, data types <br>
 
-<a href="https://en.wikipedia.org/wiki/Supervised_learning" target="_blank"> <img src="https://img.shields.io/badge/Supervised_Learning-Regression,_Classification-EBCB8B?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Supervised Learning"></a> 
-<a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank"> <img src="https://img.shields.io/badge/Neural_Networks-CNN,_RNN,_GAN,_Transformers-88C0D0?style=for-the-badge&logo=pytorch&logoColor=white" alt="Neural Networks"></a> 
-<a href="https://en.wikipedia.org/wiki/Recommender_system" target="_blank"> <img src="https://img.shields.io/badge/Recommendation_Systems-Collaborative_Content_Based-E78284?style=for-the-badge&logo=algolia&logoColor=white" alt="Recommendation Systems"></a> 
-<a href="https://en.wikipedia.org/wiki/Data_wrangling" target="_blank"> <img src="https://img.shields.io/badge/Data_Cleaning_&_Wrangling-Imputation,_Normalization-7C8B96?style=for-the-badge&logo=dataiku&logoColor=white" alt="Data Cleaning"></a>
-<a href="https://en.wikipedia.org/wiki/Feature_engineering" target="_blank"> <img src="https://img.shields.io/badge/Feature_Engineering-Encoding,_Scaling,_Transforms-BF616A?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Feature Engineering"></a> 
-
-<a href="https://scikit-learn.org/stable/modules/grid_search.html" target="_blank"> <img src="https://img.shields.io/badge/Hyperparameter_Tuning-GridSearch,_Optuna-A3BE8C?style=for-the-badge&logo=optuna&logoColor=white" alt="Hyperparameter Tuning"></a> 
-<a href="https://en.wikipedia.org/wiki/Dimensionality_reduction" target="_blank"> <img src="https://img.shields.io/badge/Dimensionality_Reduction-PCA,_tSNE,_UMAP-D08770?style=for-the-badge&logo=pandas&logoColor=white" alt="Dimensionality Reduction"></a> 
- 
-<a href="https://en.wikipedia.org/wiki/Cluster_analysis" target="_blank"> <img src="https://img.shields.io/badge/Unsupervised_Learning-Clustering,_PCA-B48EAD?style=for-the-badge&logo=databricks&logoColor=white" alt="Unsupervised Learning"></a> 
-
-<a href="https://en.wikipedia.org/wiki/Evaluation_of_binary_classifiers" target="_blank"> <img src="https://img.shields.io/badge/Model_Evaluation-Accuracy,_ROC,_AUC-D8DEE9?style=for-the-badge&logo=metrics&logoColor=black" alt="Model Evaluation"></a> 
-<a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis" target="_blank"> <img src="https://img.shields.io/badge/EDA-Missing_Data,_Outliers,_Viz-5E81AC?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="EDA"></a> 
-<a href="https://otexts.com/fpp3/" target="_blank"> <img src="https://img.shields.io/badge/Time_Series_ARIMA,_LSTM,_Prophet-81A1C1?style=for-the-badge&logo=clockify&logoColor=white" alt="Time Series Analysis"></a>
+<a href="https://en.wikipedia.org/wiki/Supervised_learning" target="_blank"> 
+    <img src="https://img.shields.io/badge/Supervised_Learning-Regression,_Classification-EBCB8B?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Supervised Learning"></a> 
+<a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank"> 
+    <img src="https://img.shields.io/badge/Neural_Networks-CNN,_RNN,_GAN,_Transformers-88C0D0?style=for-the-badge&logo=pytorch&logoColor=white" alt="Neural Networks"></a> 
+<a href="https://en.wikipedia.org/wiki/Recommender_system" target="_blank"> 
+    <img src="https://img.shields.io/badge/Recommendation_Systems-Collaborative_Content_Based-E78284?style=for-the-badge&logo=algolia&logoColor=white" alt="Recommendation Systems"></a> 
+<a href="https://en.wikipedia.org/wiki/Data_wrangling" target="_blank"> 
+    <img src="https://img.shields.io/badge/Data_Cleaning_&_Wrangling-Imputation,_Normalization-7C8B96?style=for-the-badge&logo=dataiku&logoColor=white" alt="Data Cleaning"></a>
+<a href="https://en.wikipedia.org/wiki/Feature_engineering" target="_blank"> 
+    <img src="https://img.shields.io/badge/Feature_Engineering-Encoding,_Scaling,_Transforms-BF616A?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Feature Engineering"></a> 
+<a href="https://scikit-learn.org/stable/modules/grid_search.html" target="_blank"> 
+    <img src="https://img.shields.io/badge/Hyperparameter_Tuning-GridSearch,_Optuna-A3BE8C?style=for-the-badge&logo=optuna&logoColor=white" alt="Hyperparameter Tuning"></a> 
+<a href="https://en.wikipedia.org/wiki/Dimensionality_reduction" target="_blank"> 
+    <img src="https://img.shields.io/badge/Dimensionality_Reduction-PCA,_tSNE,_UMAP-D08770?style=for-the-badge&logo=pandas&logoColor=white" alt="Dimensionality Reduction"></a> 
+<a href="https://en.wikipedia.org/wiki/Cluster_analysis" target="_blank"> 
+    <img src="https://img.shields.io/badge/Unsupervised_Learning-Clustering,_PCA-B48EAD?style=for-the-badge&logo=databricks&logoColor=white" alt="Unsupervised Learning"></a> 
+<a href="https://en.wikipedia.org/wiki/Evaluation_of_binary_classifiers" target="_blank"> 
+    <img src="https://img.shields.io/badge/Model_Evaluation-Accuracy,_ROC,_AUC-D8DEE9?style=for-the-badge&logo=metrics&logoColor=black" alt="Model Evaluation"></a> 
+<a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis" target="_blank"> 
+    <img src="https://img.shields.io/badge/EDA-Missing_Data,_Outliers,_Viz-5E81AC?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="EDA"></a> 
+<a href="https://otexts.com/fpp3/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Time_Series_ARIMA,_LSTM,_Prophet-81A1C1?style=for-the-badge&logo=clockify&logoColor=white" alt="Time Series Analysis"></a>
 
 
 
