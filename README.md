@@ -39,7 +39,11 @@
 <br>
 
 <h2>☆ Data Science</h2>
-<h4>Data Science is an interdisciplinary field that uses statistical techniques, programming, data analysis, and machine learning to extract insights and knowledge from structured and unstructured data. It lies at the intersection of mathematics, computer science, and domain expertise.</h4>
+<h4>
+
+>Data Science is an interdisciplinary field that uses statistical techniques, programming, data analysis, and machine learning to extract insights and knowledge from structured and unstructured data. It lies at the intersection of mathematics, computer science, and domain expertise.
+
+</h4>
 
 <a href="https://github.com/JoshuaThadi/Data-Science/blob/main/DS-roadmap.md" target="_blank">
   <img src="https://img.shields.io/badge/Data%20Science%20Roadmap-View-grey?style=for-the-badge&logo=github&logoColor=white" alt="Data Science Roadmap"></a>
