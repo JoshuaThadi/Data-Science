@@ -41,7 +41,7 @@
 <h2>☆ Data Science</h2>
 <h4>
 
->Data Science is an interdisciplinary field that uses statistical techniques, programming, data analysis, and machine learning to extract insights and knowledge from structured and unstructured data. It lies at the intersection of mathematics, computer science, and domain expertise.
+Data Science is an interdisciplinary field that uses statistical techniques, programming, data analysis, and machine learning to extract insights and knowledge from structured and unstructured data. It lies at the intersection of mathematics, computer science, and domain expertise.
 
 </h4>
 
@@ -49,6 +49,12 @@
   <img src="https://img.shields.io/badge/Data%20Science%20Roadmap-View-grey?style=for-the-badge&logo=github&logoColor=white" alt="Data Science Roadmap"></a>
 <a href="https://youtu.be/LHBE6Q9XlzI?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-Data_science-BF616A?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Thumbnail"></a>
+
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
 
 
 <h3>☆ Key Components of Data Science</h3>
@@ -79,6 +85,11 @@
 <a href="https://www.geeksforgeeks.org/model-building-for-data-analytics/" target="_blank"> 
     <img src="https://img.shields.io/badge/Model_Building-ML_Algorithms-A3BE8C?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Model Building"></a>
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
 
 
 <h3>✪ Core Python Libraries / Modules</h3>
@@ -125,6 +136,12 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"></a>
 <a href="https://aws.amazon.com/" target="_blank">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"></a>
+
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
 
 
 <h3>📚 Core Subjects in Data Science</h3>
@@ -182,6 +199,11 @@
 <a href="https://www.ibm.com/think/topics/natural-language-processing" target="_blank"> 
     <img src="https://img.shields.io/badge/NLP-Text_&_Language-A3BE8C?style=for-the-badge&logo=spacy&logoColor=white" alt="Natural Language Processing"></a>
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
 
 
 <h3>📌 Topics to Cover</h3>
@@ -233,7 +255,11 @@
     <img src="https://img.shields.io/badge/Time_Series_ARIMA,_LSTM,_Prophet-81A1C1?style=for-the-badge&logo=clockify&logoColor=white" alt="Time Series Analysis"></a>
 </div>
 
-
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
 
 
 <h3>★ Why is Data Science Important?</h3>
@@ -261,6 +287,13 @@ Data Science enables organizations to:<br>
 <a href="https://www.data.gov/" target="_blank"> 
     <img src="https://img.shields.io/badge/Data.gov-US_Open_Data-A3BE8C?style=for-the-badge&logo=govtech&logoColor=white" alt="Data.gov"></a>
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+
 <h3>📖 Learning Resources</h3>
 1] <b>Python for Data Science</b> – freeCodeCamp <br>
 2] <b>Coursera Data Science Specialization</b> <br>
@@ -276,6 +309,13 @@ Data Science enables organizations to:<br>
 <a href="https://course.fast.ai/" target="_blank"> 
     <img src="https://img.shields.io/badge/Fast.ai-Cutting_Edge_Courses-EBCB8B?style=for-the-badge&logo=fastapi&logoColor=white" alt="Fast.ai"></a> 
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+
 <h3>✫ Applications of Data Science</h3>
 
 1] <b>Drug Discovery & Personalized Medicine</b><br>
@@ -285,6 +325,12 @@ How: Machine learning models predict how a drug will interact with human protein
   <img src="https://img.shields.io/badge/Drug%20Discovery-%26%20Personalized%20Medicine-5E81AC?style=for-the-badge&logo=databricks&logoColor=white" alt="Drug Discovery & Personalized Medicine">
 </a>
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
 
 2] <b>Satellite Image Analysis & Earth Observation</b><br>
 Use Case: Monitoring deforestation, urban expansion, and climate change from space.<br>
@@ -292,6 +338,12 @@ How: Computer vision applied to satellite imagery to track environmental changes
 <a href="https://en.wikipedia.org/wiki/Satellite_imagery" target="_blank">
   <img src="https://img.shields.io/badge/Satellite%20Image%20Analysis-%26%20Earth%20Observation-5E81AC?style=for-the-badge&logo=googleearth&logoColor=white" alt="Satellite Image Analysis & Earth Observation">
 </a>
+
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
 
 
 3] <b>Neuroinformatics & Brain-Computer Interfaces (BCIs)</b><br>
@@ -302,6 +354,12 @@ How: ML models decode EEG/fMRI data to enable mind-controlled prosthetics or com
   <img src="https://img.shields.io/badge/Neuroinformatics-%26%20BCIs-B48EAD?style=for-the-badge&logo=neovim&logoColor=white" alt="Neuroinformatics & Brain-Computer Interfaces (BCIs)">
 </a>
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
 
 4] <b>Legal Analytics & Predictive Judging</b><br>
 Use Case: Predicting the outcome of legal cases or analyzing judge rulings.<br>
@@ -310,6 +368,12 @@ How: NLP and ML models analyze vast amounts of case law and court data to assist
 <a href="https://en.wikipedia.org/wiki/Legal_analytics" target="_blank">
   <img src="https://img.shields.io/badge/Legal%20Analytics-%26%20Predictive%20Judging-4C588A?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Legal Analytics & Predictive Judging">
 </a>
+
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
 
 
 5] <b>Content Generation & Scriptwriting</b><br>
@@ -320,6 +384,12 @@ How: NLP and generative models trained on film scripts, books, or dialogues to s
   <img src="https://img.shields.io/badge/Content%20Generation-%26%20Scriptwriting-BF616A?style=for-the-badge&logo=writedotas&logoColor=white" alt="Content Generation & Scriptwriting">
 </a>
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
 
 6] <b>Game Analytics & Dynamic Difficulty Adjustment</b>
 Use Case: Making video games adapt to player skill in real time for better engagement.<br>
@@ -328,6 +398,12 @@ How: Analyzing gameplay data to adjust difficulty, recommend challenges, or pred
 <a href="https://en.wikipedia.org/wiki/Game_analytics" target="_blank">
   <img src="https://img.shields.io/badge/Game%20Analytics-%26%20Dynamic%20Difficulty%20Adjustment-4C599A?style=for-the-badge&logo=steam&logoColor=white" alt="Game Analytics & Dynamic Difficulty Adjustment">
 </a>
+
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
 
 
 7] <b>Smart City Optimization</b>
@@ -338,6 +414,12 @@ How: Integrating IoT sensor data with predictive analytics to optimize urban inf
   <img src="https://img.shields.io/badge/Smart%20City-Optimization-BF616A?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Smart City Optimization">
 </a>
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
 
 8] <b>Synthetic Biology & Genomic Sequencing</b><br>
 Use Case: Designing synthetic organisms or editing genes more efficiently.<br>
@@ -347,12 +429,25 @@ How: Data science models help map and understand genetic patterns to identify ge
   <img src="https://img.shields.io/badge/Synthetic%20Biology-%26%20Genomic%20Sequencing-B48EAD?style=for-the-badge&logo=dna&logoColor=white" alt="Synthetic Biology & Genomic Sequencing">
 </a>
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+
 9] <b>Adaptive Learning Systems in EdTech</b><br>
 Use Case: Personalizing learning paths for students.<br>
 How: Tracking student performance data and recommending content or pace adjustment using ML.<br>
 <a href="https://en.wikipedia.org/wiki/Educational_technology" target="_blank">
   <img src="https://img.shields.io/badge/Adaptive%20Learning-Systems%20in%20EdTech-4C599A?style=for-the-badge&logo=edmodo&logoColor=white" alt="Adaptive Learning Systems in EdTech">
 </a>
+
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
 
 
 10] <b>Social Good & Policy Simulation</b><br>
