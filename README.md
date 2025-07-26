@@ -12,6 +12,27 @@
 
 </p>
 
+
+<h2>☆ Data Science</h2>
+<h4>
+
+Data Science is an interdisciplinary field that uses statistical techniques, programming, data analysis, and machine learning to extract insights and knowledge from structured and unstructured data. It lies at the intersection of mathematics, computer science, and domain expertise.
+
+</h4>
+
+<a href="https://github.com/JoshuaThadi/Data-Science/blob/main/DS-roadmap.md" target="_blank">
+  <img src="https://img.shields.io/badge/Data%20Science%20Roadmap-View-grey?style=for-the-badge&logo=github&logoColor=white" alt="Data Science Roadmap"></a>
+<a href="https://youtu.be/LHBE6Q9XlzI?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Data_science-BF616A?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Thumbnail"></a>
+
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+
+
 >[!IMPORTANT]
 >## IDM Data Science Assignment
 >Welcome to the Data Science assignment repository! This assignment, developed as part of a Coursera course, covers key data science concepts and practical coding exercises in Jupyter Notebook. Below is a summary of what you will find in this repository.
@@ -36,24 +57,6 @@
 ---
 
 <br>
-
-<h2>☆ Data Science</h2>
-<h4>
-
-Data Science is an interdisciplinary field that uses statistical techniques, programming, data analysis, and machine learning to extract insights and knowledge from structured and unstructured data. It lies at the intersection of mathematics, computer science, and domain expertise.
-
-</h4>
-
-<a href="https://github.com/JoshuaThadi/Data-Science/blob/main/DS-roadmap.md" target="_blank">
-  <img src="https://img.shields.io/badge/Data%20Science%20Roadmap-View-grey?style=for-the-badge&logo=github&logoColor=white" alt="Data Science Roadmap"></a>
-<a href="https://youtu.be/LHBE6Q9XlzI?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-Data_science-BF616A?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Thumbnail"></a>
-
-<div>
-  <p>
-    <h1></h1>
-  </p>
-</div>
 
 
 <h3>☆ Key Components of Data Science</h3>
