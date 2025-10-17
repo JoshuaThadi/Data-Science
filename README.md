@@ -13,7 +13,7 @@
 </p>
 
 
-<h2>☆ Data Science</h2>
+<!--<h2>☆ Data Science</h2>-->
 <h4>
 
 Data Science is an interdisciplinary field that uses statistical techniques, programming, data analysis, and machine learning to extract insights and knowledge from structured and unstructured data. It lies at the intersection of mathematics, computer science, and domain expertise.
