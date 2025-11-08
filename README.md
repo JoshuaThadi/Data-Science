@@ -54,12 +54,9 @@ Data Science is an interdisciplinary field that uses statistical techniques, pro
 - Practice using Markdown and Code cells in Jupyter Notebook<br></p>
 
 
----
-
-<br>
-
-
-<h3>☆ Key Components of Data Science</h3>
+<details>
+    <summary>Data science - details</summary>
+    <h3>☆ Key Components of Data Science</h3>
 
 1] <b>Data Collection:</b> Gathering data from various sources: databases, APIs, sensors, web scraping, etc.<br>
 2] <b>Data Cleaning and Preprocessing:</b> Handling missing data, removing duplicates, fixing errors, normalizing formats.<br>
@@ -501,6 +498,8 @@ How: Data models trained on socio-economic datasets to project real-world impact
     <img src="https://img.shields.io/badge/ML_Frameworks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning Frameworks"></a>
 
 </div>-->
+
+</details>
 
 ---
 
