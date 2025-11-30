@@ -34,7 +34,7 @@ Data Science is an interdisciplinary field that uses statistical techniques, pro
 
 
 >[!IMPORTANT]
->## IDM Data Science Assignment
+>## <img width="50%" src="https://github.com/JoshuaThadi/Data-Science/blob/main/assests/IBM_logo.svg.png"> Data Science Assignment
 >Welcome to the Data Science assignment repository! This assignment, developed as part of a Coursera course, covers key data science concepts and practical coding exercises in Jupyter Notebook. Below is a summary of what you will find in this repository.
 
 <p align="center">
