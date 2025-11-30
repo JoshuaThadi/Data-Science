@@ -504,5 +504,5 @@ How: Data models trained on socio-economic datasets to project real-world impact
 ---
 
 <div align="center">
-⚠️ This repository is uniquely designed by <strong>@JoshuaThadi</strong>
+⚠️ This repository is uniquely designed by <strong>@JoshuaThadi.</strong>
 </div>
