@@ -46,13 +46,7 @@ Data Science is an interdisciplinary field that uses statistical techniques, pro
 
 
 ### Objectives
-
-<p>- Understand and list popular languages used in Data Science<br>
-- Explore essential libraries and tools for data science workflows<br>
-- Apply basic arithmetic operations within a Jupyter Notebook<br>
-- Perform unit conversions (e.g., converting minutes to hours)<br>
-- Practice using Markdown and Code cells in Jupyter Notebook<br></p>
-
+<p> - Understand the role of a Data Scientist and the data science lifecycle<br> - Learn Python, SQL, and data science tools such as Jupyter Notebooks, Git, and Watson Studio<br> - Perform data collection, cleaning, and preparation for analysis<br> - Conduct Exploratory Data Analysis to uncover trends and insights<br> - Visualize data using Matplotlib, Seaborn, and interactive dashboards<br> - Apply basic machine learning techniques for prediction and classification<br> - Evaluate model performance and interpret results<br> - Complete hands-on projects and a capstone to build a job-ready portfolio<br> </p>
 
 <details>
     <summary>Data science - details</summary>
