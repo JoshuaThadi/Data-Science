@@ -53,7 +53,7 @@ Data Science is an interdisciplinary field that uses statistical techniques, pro
 ## Data Science and Data Analysis Projects
 
 > [!IMPORTANT]
-><a href="https://www.ibm.com/think/topics/exploratory-data-analysis"><h3>1] EDA - Exploratory Data Analysis</h3></a>
+><h3><a href="https://www.ibm.com/think/topics/exploratory-data-analysis">1] EDA - Exploratory Data Analysis</a></h3>
 >**Exploratory Data Analysis (EDA)** is a crucial step in the data science lifecycle where raw data is explored, summarized, and visualized 
 >to understand its structure and characteristics before applying any machine learning or statistical models.
 <details>
