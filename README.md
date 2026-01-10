@@ -58,7 +58,7 @@ Data Science is an interdisciplinary field that uses statistical techniques, pro
 >to understand its structure and characteristics before applying any machine learning or statistical models.
 <details>
     <summary>
-        <b>Exploratory Data Analysis - EDA on Olympics</b>
+        <b>Exploratory Data Analysis on Olympics</b>
     </summary>
 
 This project involves performing EDA on a dataset containing information about Olympic athletes, events, and medal counts. 
