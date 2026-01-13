@@ -54,7 +54,7 @@ Data Science is an interdisciplinary field that uses statistical techniques, pro
 
 > [!IMPORTANT]
 ><h3><a href="https://www.ibm.com/think/topics/exploratory-data-analysis">1] EDA - Exploratory Data Analysis</a></h3>
->**Exploratory Data Analysis (EDA)** is a crucial step in the data science lifecycle where raw data is explored, summarized, and visualized 
+><b>Exploratory Data Analysis (EDA)</b> is a crucial step in the data science lifecycle where raw data is explored, summarized, and visualized 
 >to understand its structure and characteristics before applying any machine learning or statistical models.
 <details>
     <summary>
@@ -76,7 +76,9 @@ country-wise dominance, medal distributions, and the evolution of the Olympic Ga
 
 The analysis is performed using Python-based data science tools and follows a structured, professional EDA workflow.
 
----
+<h1>
+    <p></p>
+</h1>
 
 >## About the Olympics Dataset
 >
@@ -90,7 +92,9 @@ The analysis is performed using Python-based data science tools and follows a st
 >
 >This dataset provides rich opportunities to analyze sports trends across decades.
 
----
+<h1>
+    <p></p>
+</h1>
 
 ## Key Objectives of This Project
 
@@ -101,7 +105,9 @@ The analysis is performed using Python-based data science tools and follows a st
 * Explore the evolution of the Olympics across years
 * Detect missing values, duplicates, and inconsistencies
 
----
+<h1>
+    <p></p>
+</h1>
 
 ## Tools & Technologies Used
 
@@ -112,7 +118,9 @@ The analysis is performed using Python-based data science tools and follows a st
 * **Seaborn** – advanced statistical plots
 * **Jupyter Notebook** – interactive analysis
 
----
+<h1>
+    <p></p>
+</h1>
 
 ## EDA Workflow Followed
 
@@ -138,7 +146,9 @@ The analysis is performed using Python-based data science tools and follows a st
 6. **Insights & Conclusions**
    * Key findings and observations
 
----
+<h1>
+    <p></p>
+</h1>
 
 ## Key Insights (Sample)
 
@@ -149,7 +159,9 @@ The analysis is performed using Python-based data science tools and follows a st
 
 > Detailed insights are available inside the notebook.
 
----
+<h1>
+    <p></p>
+</h1>
 
 ## Future Improvements
 
@@ -158,7 +170,9 @@ The analysis is performed using Python-based data science tools and follows a st
 * Build **machine learning models** for medal prediction
 * Create **interactive dashboards** using Plotly or Power BI
 
----
+<h1>
+    <p></p>
+</h1>
 
 ## Project Structure
 
@@ -169,7 +183,9 @@ The analysis is performed using Python-based data science tools and follows a st
 │       └── dataset_olympics.csv
 ```
 
----
+<h1>
+    <p></p>
+</h1>
 
 ## Author
 
@@ -177,7 +193,9 @@ The analysis is performed using Python-based data science tools and follows a st
 AI/ML & Data Science Enthusiast
 Founder & CEO – Yehoarc
 
----
+<h1>
+    <p></p>
+</h1>
 
 ## Conclusion
 
