@@ -48,9 +48,32 @@ Data Science is an interdisciplinary field that uses statistical techniques, pro
 ### Objectives
 <p> - Understand the role of a Data Scientist and the data science lifecycle<br> - Learn Python, SQL, and data science tools such as Jupyter Notebooks, Git, and Watson Studio<br> - Perform data collection, cleaning, and preparation for analysis<br> - Conduct Exploratory Data Analysis to uncover trends and insights<br> - Visualize data using Matplotlib, Seaborn, and interactive dashboards<br> - Apply basic machine learning techniques for prediction and classification<br> - Evaluate model performance and interpret results<br> - Complete hands-on projects and a capstone to build a job-ready portfolio<br> </p>
 
+<p>
+    <h1></h1>
+</p>
+
+
+<details>
+    <summary><b><a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coursera.org/learn/data-science-methodology&ved=2ahUKEwirobXSv4yWAxUtk1YBHSKOFe8QFnoECBgQAQ&usg=AOvVaw3LsjDzzH7p-x9S7uCJEFh0">1] Data science Methodology</a></b></summary>
+
+1] <b>Business Understanding:</b> Define the core problem, clarify the stakeholder's objectives, and frame the ultimate goal.<br>
+2] <b>Analytic Approach:</b> Determine the correct statistical or machine learning path (e.g., classification, regression, clustering) required to solve the problem.<br>
+3] <b>Data Requirements:</b> Specify the exact content, formats, and sources of data needed.<br>
+4] <b>Data Collection:</b> Gather the necessary raw data sets from identified sources or repositories.<br>
+5] <b>Data Understanding:</b> Run descriptive statistics and visualizations to assess data quality, gaps, and initial traits.<br>
+6] <b>Data Preparation:</b> Clean, address missing values, transform formats, and shape the data into the final structure needed for modeling.<br>
+7] <b>Modeling:</b> Design, train, and test mathematical or machine learning structures on the prepared data.<br>
+8] <b>Evaluation:</b> Assess model performance and metrics against the original business objectives to ensure validity.<br>
+9] <b>Deployment:</b> Launch the tested model into production or a practical operational environment for end users.<br>
+10] <b>Feedback:</b> Continuously monitor the deployed model's performance in the real world and refine it over time.<br>
+
+    
+    
+</details>
+
 ---
 
-## Data Science and Data Analysis Projects
+## Data Science Projects
 
 > [!IMPORTANT]
 ><h3><a href="https://www.ibm.com/think/topics/exploratory-data-analysis">1] EDA - Exploratory Data Analysis</a></h3>
@@ -78,7 +101,7 @@ The goal is to uncover insights about athlete performance, country participation
 >### Data Science resources and information
 > * Topic and subjects to learn about data science and data analysis
 <details>
-    <summary>Data science - details</summary>
+    <summary>Data science resource - details</summary>
     <h3>☆ Key Components of Data Science</h3>
 
 1] <b>Data Collection:</b> Gathering data from various sources: databases, APIs, sensors, web scraping, etc.<br>
